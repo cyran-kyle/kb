@@ -3,58 +3,10 @@
     <img src="https://media1.giphy.com/media/XqVUeEK5Lt3VOGEzJj/giphy.gif" width="610">
      
 </p>
-<h1 align="center"> A17 BoT (Beta)
+<h1 align="center"> Turbo Bot (Beta)
 </h1>
 <p align="center"> 
-  Hemlo, I am "A17" a WhatsApp bot create and recode by Kai to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
-
-   <p align="center"> 
-  <a href="https://github.com/Kai0071/A17/stargazers">
-    <img src="https://img.shields.io/github/stars/Kai0071/A17?style=social">
-    
-   <p align="center">
-  <a href="https://github.com/Kai0071/A17/fork">
-    <img src="https://img.shields.io/github/forks/Kai0071/A17?label=Fork&style=social">
-    
-<p align="center">
-  <a href="https://github.com/Kai0071/A17">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Kai0071/A17.visitor-badge&left_text=Total%20Repo%20Visits">
- 
-  <p align="CENTER">
-  <a href="https://github.com/Kai0071"><img title="Support" src="https://img.shields.io/badge/Maintain-Yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
-</p>
-    
-
-     
-  
-<p align="CENTER">
-  <a href="https://github.com/Kai0071"><img title="Support" src="https://img.shields.io/badge/next%20Update-Undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
-</p>
-     
-<br>
-<br>
-    
-
-<h1 align="center"> ✨  Now Playing  ✨
-</h1>
-
-<p align="center"> <img src="https://novatorem-mu-three.vercel.app/api/spotify" alt="kai0071" /> </p>
-
-     
- <br>
-     <br>
- 
-     
-
-<h2 align="center">  <a href="https://github.com/Kai0071/A17/fork"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtAwkI22hemoXSiUNbcg_dFTfuLLPHMc5Cig&usqp=CAU" />
-</a>
-</h2>
- 
-     
-<br>
-     <br>
-     
-
+  Hemlo, I am "Turbo Bot" a WhatsApp bot create and recode by Kyle to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
      
 <h2 align="center"> 🍁  Run Repl for Qr  🍁
 </h2>
